@@ -1,2 +1,3 @@
-# 30-Day-LeetCoding-Challenge-April
-30-Day LeetCoding Challenge - April
+# 30-Day-LeetCoding-Challenge-April 
+
+## Solutions in Java.
